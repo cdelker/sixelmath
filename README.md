@@ -10,6 +10,11 @@ See list of sixel-supported terminal emulators [here](https://www.arewesixelyet.
 
 ## Usage
 
+Installation:
+
+    pip install sixelmath
+
+
 ### Command Line
 
 Render a LaTeX expression:
